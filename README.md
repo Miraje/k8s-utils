@@ -99,8 +99,4 @@ HTML file generated: sts-portal-dev-resources.html
 
 ## 🤝 Contributing
 
-Contributions are welcome! You can:
-
-- Open issues or PRs.
-- Suggest enhancements (e.g., filtering workload types, additional output formats).
-- Report bugs or request features.
+Contributions are welcome!
